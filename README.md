@@ -1,4 +1,18 @@
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNncG5wN2g1NzFmdTVvanRwbDA0OWc3bGw4cjZqdGQxZXRsNW41ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm13ZGhsbWM5c2Y4ZXQ2eWk3bnV5emI5MDR6bGN2MG9pOTBud29pcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cg41tz5aEc7vCio8Zn/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://t.me/g3ek0" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.twitch.tv/iamgeeko" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
+  </a>
 </div>
+<a href="https://itsgeeko.github.io/portfolio/" target="_blank">
+  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE4amF6Y2o3OGJuY2d3cnV5czNjN2M2dTVqeHA4eWFkeGRreHZkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzsQ3pgVzhYwhPPvRx/giphy.gif" alt="about w="30"">
+</a>
+</div>
+
+  
+  
