@@ -10,7 +10,7 @@
   </a>
 </div>
 <a href="https://itsgeeko.github.io/portfolio/" target="_blank">
-  <img align="center" src="http://www.booooooom.com/wp-content/uploads/2016/02/protobacillus01.gif" alt="about w="30"">
+  <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=projects&logoColor=white" alt="Twitch Badge"/>
 </a>
 </div>
 
